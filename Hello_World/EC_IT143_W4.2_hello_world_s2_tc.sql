@@ -1,0 +1,6 @@
+-- Assignment: 4.2 Final Project
+-- Hello World
+-- Step 2: Begin creating an answer
+-- SQL Server can return a message
+-- using a simple SELECT statement.
+-- Next, we will test this with a query.

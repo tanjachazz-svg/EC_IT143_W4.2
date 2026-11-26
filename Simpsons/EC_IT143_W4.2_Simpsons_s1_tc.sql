@@ -1,0 +1,6 @@
+-- Assignment: 4.2 Final Project
+-- Community: Simpsons
+-- Step 1: Start with a question
+-- Question:
+-- What is the total transaction amount
+-- for each category?

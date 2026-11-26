@@ -1,0 +1,5 @@
+-- Assignment: 4.2 Final Project
+-- Hello World
+-- Step 1: Start with a question
+-- Question:
+-- What message can SQL Server return?
